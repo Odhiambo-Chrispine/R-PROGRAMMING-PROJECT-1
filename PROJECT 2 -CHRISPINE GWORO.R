@@ -3,7 +3,6 @@ library(tseries)
 library(forecast)
 library(xts)
 install.packages("timeSeries")
-# some comment
 
 DATA=read.csv("Uk_largest_companies.csv")
 View(DATA)
